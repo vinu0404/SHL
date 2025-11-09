@@ -614,15 +614,15 @@ shl-assessment-recommender/
 
 ### Prerequisites
 
-- Python 3.9 or higher
-- Google Gemini API Key ([Get it here](https://makersuite.google.com/app/apikey))
+- Python 3.11
+- Google Gemini API Key 
 
 ### Installation
 
 ```bash
 # 1. Clone repository
-git clone <repository-url>
-cd shl-assessment-recommender
+git clone https://github.com/vinu0404/SHL.git
+cd shl
 
 # 2. Create virtual environment
 python -m venv venv
@@ -641,35 +641,8 @@ cp .env.example .env
 # Edit .env and add your GEMINI_API_KEY
 ```
 
-### Initial Setup
-
-```bash
-# 1. Scrape assessment catalog (10-20 minutes)
-python scripts/scrape_catalog.py
-
-# 2. Initialize vector database (5-10 minutes)
-python scripts/init_vector_db.py
-
-# 3. (Optional) Evaluate model
-python scripts/evaluate_model.py
-```
 
 ### Running the Application
-
-#### Option 1: Run Everything (Recommended)
-
-**Linux/Mac:**
-```bash
-chmod +x start_all.sh
-./start_all.sh
-```
-
-**Windows:**
-```bash
-start_all.bat
-```
-
-#### Option 2: Run Separately
 
 **Terminal 1 - FastAPI Backend:**
 ```bash
@@ -726,7 +699,7 @@ Here's the job posting: https://example.com/jobs/data-scientist
 
 **Input:**
 ```
-What is the Python assessment and how long does it take?
+What is the .net assessment and how long does it take?
 ```
 
 **Process:**
@@ -736,8 +709,8 @@ What is the Python assessment and how long does it take?
 
 **Output:**
 ```
-The Python (New) assessment is a multi-choice test that measures 
-knowledge of Python programming, databases, modules and libraries.
+The .NET (New) assessment is a multi-choice test that measures 
+knowledge of programming, modules and libraries.
 
 Duration: 11 minutes
 Test Type: Knowledge & Skills
@@ -759,9 +732,9 @@ GEMINI_MODEL=gemini-2.0-flash-exp        # Fast and efficient
 GEMINI_TEMPERATURE=0.1                    # Low for consistency
 
 # RAG Settings
-RAG_TOP_K=15                             # Initial retrieval
+RAG_TOP_K=10                            # Initial retrieval
 RAG_FINAL_SELECT_MIN=5                   # Minimum recommendations
-RAG_FINAL_SELECT_MAX=10                  # Maximum recommendations
+RAG_FINAL_SELECT_MAX=7                 # Maximum recommendations
 
 # Auto-Refresh
 REFRESH_API_KEY=your-secure-key          # Protect refresh endpoint
