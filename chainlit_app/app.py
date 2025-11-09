@@ -274,5 +274,4 @@ async def setup_databases():
 
 
 if __name__ == "__main__":
-    # Run with: chainlit run chainlit_app/app.py
     pass

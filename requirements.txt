@@ -13,7 +13,7 @@ langchain-community
 google-generativeai
 
 # Vector Database
-chromadb
+chromadb==1.3.4
 
 # Database
 sqlalchemy

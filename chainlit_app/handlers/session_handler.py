@@ -49,7 +49,6 @@ class SessionHandler:
             
         except Exception as e:
             self.logger.error(f"Failed to create session: {e}")
-            # Return a temporary ID if database fails
             return str(uuid.uuid4())
     
     async def update_session_stats(self, session_id: str, result: Dict[str, Any]):
