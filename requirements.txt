@@ -1,0 +1,43 @@
+# Core Framework
+fastapi
+uvicorn[standard]
+chainlit
+
+# LangChain & LangGraph
+langchain
+langchain-google-genai
+langgraph
+langchain-community
+
+# Google Generative AI
+google-generativeai
+
+# Vector Database
+chromadb
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Data Processing
+pydantic
+pydantic-settings
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Utilities
+python-dotenv
+python-multipart
+
+# Logging & Monitoring
+loguru
+
+# Async Support
+httpx
+aiofiles
+
+# Data Validation
+validators
