@@ -251,7 +251,7 @@ def main():
     API_URL = "http://localhost:8000"
     TEST_SET_FILE = "data/Test-Set.json"
     OUTPUT_FILE = "predictions.csv"
-    DELAY_BETWEEN_REQUESTS = 1.0  # seconds
+    DELAY_BETWEEN_REQUESTS = 3.0  # seconds
     
     logger.info("=" * 60)
     logger.info("SHL Assessment Recommendation System - Testing Script")

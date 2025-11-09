@@ -482,6 +482,7 @@ shl-assessment-recommender/
 ├── 📄 README.md                         
 ├── 📄 run.py                            # FastAPI runner
 ├── 📄 run_chainlit.py                   # Chainlit runner
+├── 📄 predictions.csv                   # for test-set prediction using fastapi
 │
 ├── 📂 app/                              # Main application package
 │   ├── 📄 __init__.py

@@ -5,7 +5,7 @@ from pydantic import BaseModel, Field, validator
 # Request Schemas
 class RecommendRequest(BaseModel):
     """Request schema for recommendation endpoint"""
-    query: str = Field(..., min_length=10, max_length=5000, description="Job description or natural language query")
+    query: str = Field(..., min_length=10, max_length=10000, description="Job description or natural language query")
     
     @validator('query')
     def validate_query(cls, v):
@@ -16,7 +16,7 @@ class RecommendRequest(BaseModel):
 
 class ChatRequest(BaseModel):
     """Request schema for chat endpoint"""
-    query: str = Field(..., min_length=1, max_length=5000, description="User query")
+    query: str = Field(..., min_length=1, max_length=10000, description="User query")
     session_id: Optional[str] = Field(None, description="Session ID for context")
 
 
