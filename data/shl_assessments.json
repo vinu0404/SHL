@@ -10,7 +10,7 @@
     "description": "Multi-choice test that measures the knowledge of AEM components, templates, workflows, AEM collections, OSGi services and troubleshooting of AEM projects.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 17
   },
   "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/": {
     "name": "Adobe Photoshop CC",
@@ -23,7 +23,7 @@
     "description": "The Adobe Photoshop CC test measures knowledge of Adobe Photoshop CC. Designed for experienced users, this test covers the following topics: 3D, Color, File Management, Interface, Layers, Painting and Drawing, Retouch and Enhancements, Selection, Text, and Web.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 20
   },
   "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/": {
     "name": "Aeronautical Engineering (New)",
@@ -36,7 +36,7 @@
     "description": "Multi-choice test that measures the knowledge of flight mechanics, space dynamics, aerodynamics, structures and propulsion.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/": {
     "name": "Aerospace Engineering (New)",
@@ -49,7 +49,7 @@
     "description": "Multi-choice test that measures the conceptual knowledge of aerodynamics, aircraft systems and instrumentation, flight dynamics, space dynamics and avionics.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/agile-software-development/": {
     "name": "Agile Software Development",
@@ -75,7 +75,7 @@
     "description": "Multi-choice test that measures the knowledge of tools, techniques and processes involved in the Agile testing methodology.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 13
   },
   "https://www.shl.com/products/product-catalog/view/ai-skills/": {
     "name": "AI Skills",
@@ -88,7 +88,7 @@
     "description": "The AI Skills assessment measures the skills that help candidates successfully leverage AI in their work.",
     "job_levels": "General Population,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 16
   },
   "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/": {
     "name": "Amazon Web Services (AWS) Development (New)",
@@ -101,7 +101,7 @@
     "description": "Multi-choice test that measures the knowledge of AWS delivery process, monitoring, metrics, logging, security, validation and scalability.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 6
   },
   "https://www.shl.com/products/product-catalog/view/android-development-new/": {
     "name": "Android Development (New)",
@@ -114,7 +114,7 @@
     "description": "Multi-choice test that measures the knowledge of UI components for an Android device, services and alerts, animation and media apps, application components, security and testing.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 7
   },
   "https://www.shl.com/products/product-catalog/view/angular-6-new/": {
     "name": "Angular 6 (New)",
@@ -127,7 +127,7 @@
     "description": "Multi-choice test that measures the knowledge of the basic components and modules of Angular 6 and concepts like data binding, dependency injection, CRUD with HTTP, typescript, routing and navigation.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 11
   },
   "https://www.shl.com/products/product-catalog/view/angularjs-new/": {
     "name": "AngularJS (New)",
@@ -140,7 +140,7 @@
     "description": "Multi-choice test that measures the knowledge of AngularJS architecture, forms, directives, filters, controllers, routing and testing.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 9
   },
   "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/": {
     "name": "Apache Hadoop (New)",
@@ -153,7 +153,7 @@
     "description": "Multi-choice test that measures the knowledge of basic concepts of Hadoop, commands, HDFS and MapReduce.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 7
   },
   "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/": {
     "name": "Apache Hadoop Extensions (New)",
@@ -166,7 +166,7 @@
     "description": "Multi-choice test that measures the conceptual knowledge of Pig, Hive and HBase.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 9
   },
   "https://www.shl.com/products/product-catalog/view/apache-hbase-new/": {
     "name": "Apache HBase (New)",
@@ -179,7 +179,7 @@
     "description": "Multi-choice test that measures the knowledge of HBase concepts such as CAP theorem, ACID properties, HBase client API, MapReduce integration, configuration and administration.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 5
   },
   "https://www.shl.com/products/product-catalog/view/apache-hive-new/": {
     "name": "Apache Hive (New)",
@@ -192,7 +192,7 @@
     "description": "Multi-choice test that measures the knowledge of Hive architecture, datatypes, built-in functions, configurations, partitioning, bucketing and commands of Hive query language.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 5
   },
   "https://www.shl.com/products/product-catalog/view/apache-kafka-new/": {
     "name": "Apache Kafka (New)",
@@ -205,7 +205,7 @@
     "description": "Multi-choice test that measures the knowledge of Apache Kafka architecture, components, clusters, performance tuning and advanced operations.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 6
   },
   "https://www.shl.com/products/product-catalog/view/apache-pig-new/": {
     "name": "Apache Pig (New)",
@@ -218,7 +218,7 @@
     "description": "Multi-choice test that measures the knowledge of Pig architecture, built-in operators, built-in functions and commands in PigLatin.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 6
   },
   "https://www.shl.com/products/product-catalog/view/apache-spark-new/": {
     "name": "Apache Spark (New)",
@@ -231,7 +231,7 @@
     "description": "Multi-choice test that measures the knowledge of Apache Spark principles, RDD operations - actions and transformations, lineage graphs and lazy evaluation.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/": {
     "name": "ASP .NET with C# (New)",
@@ -244,7 +244,7 @@
     "description": "Multi-choice test that measures the knowledge of .NET framework and controls, C# fundamentals, OOPs concepts and advanced topics such as data access components, state management and security services.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 13
   },
   "https://www.shl.com/products/product-catalog/view/asp-net-4-5/": {
     "name": "ASP.NET 4.5",
@@ -257,7 +257,7 @@
     "description": "The ASP.NET 4.5 test measures knowledge of programming in the ASP.NET environment. Designed for experienced developers, but an average performer in this role should pass this test. This test includes the following topics: .NET Framework, Client-Side Programming, Data Access, Enhanced Runtime Features, Portals, Services and Mobile, Security, Troubleshooting and Optimization, Web Applications, and Web Forms.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 30
   },
   "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/": {
     "name": "Assessment and Development Center Exercises",
@@ -283,7 +283,7 @@
     "description": "A simulated compiler integrated test to measure debugging skills in C, C++ and Java. The test checks the ability to fix logical or syntactical errors and to reuse an existing code.\r\n\r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
     "job_levels": "Mid-Professional,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 20
   },
   "https://www.shl.com/products/product-catalog/view/automata-sql-new/": {
     "name": "Automata - SQL (New)",
@@ -296,7 +296,7 @@
     "description": "A simulated query writing test that measures the ability to write SQL queries to perform DDL, DML and DCL tasks.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 30
   },
   "https://www.shl.com/products/product-catalog/view/automata-new/": {
     "name": "Automata (New)",
@@ -309,7 +309,7 @@
     "description": "An AI-powered coding simulation assessment that evaluates candidate’s programming ability. Offers a familiar IDE environment available in over 40 different programming languages and tests candidates using real-world coding problems. \r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 45
   },
   "https://www.shl.com/products/product-catalog/view/automata-data-science-new/": {
     "name": "Automata Data Science (New)",
@@ -322,7 +322,7 @@
     "description": "A simulated test that measures the ability to analyze and modify data using machine learning algorithms to obtain desirable results.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 60
   },
   "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/": {
     "name": "Automata Data Science Pro (New)",
@@ -335,7 +335,7 @@
     "description": "A simulated test that measures the ability to analyze and modify data using machine learning algorithms to obtain desirable results.",
     "job_levels": "Professional Individual Contributor, Mid-Professional,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 60
   },
   "https://www.shl.com/products/product-catalog/view/automata-front-end/": {
     "name": "Automata Front End",
@@ -361,7 +361,7 @@
     "description": "An AI-powered coding simulation assessment that evaluates candidate’s programming ability. Offers a familiar IDE environment available in over 40 different programming languages and tests candidates using real-world coding problems. \r\n \r\nYour use of this assessment product may be subject to New York City Law 144 (Regulation of the Use of Automated Employment Decision Tools) (dated July 5, 2023). Compliance with Law 144 is your responsibility.\r\nRead more on https://www.shl.com/legal/shl-us-regulatory-compliance/",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 60
   },
   "https://www.shl.com/products/product-catalog/view/automata-selenium/": {
     "name": "Automata Selenium",
@@ -374,7 +374,7 @@
     "description": "A coding simulation assessment that evaluates the ability to conduct tasks related to automation testing using Selenium scripts.",
     "job_levels": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 60
   },
   "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/": {
     "name": "Automation Anywhere RPA Development (New)",
@@ -387,7 +387,7 @@
     "description": "Multi-choice test that measures the knowledge of Automation Anywhere dash board and task editor, control room, key commands, bots and Automation Anywhere client.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/": {
     "name": "Automotive Engineering (New)",
@@ -400,7 +400,7 @@
     "description": "Multi-choice test that measures the knowledge of auto engine classification, engine fuel system, auto-vehicle technology, maintenance, inspection and troubleshooting.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 13
   },
   "https://www.shl.com/products/product-catalog/view/basic-biology-new/": {
     "name": "Basic Biology (New)",
@@ -413,7 +413,7 @@
     "description": "Multi choice test that measures the candidate's basic understanding of Biology.",
     "job_levels": "Professional Individual Contributor, Graduate, Mid-Professional,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 6
   },
   "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/": {
     "name": "Basic Computer Literacy (Windows 10) (New)",
@@ -427,7 +427,7 @@
     "description": "The Basic Computer Literacy (Windows 10) simulation measures knowledge of general computer terminology, processes, and applications and the ability to perform certain operations in a simulated environment resembling the actual application. This simulation consists of both multiple choice and simulation-based questions, and includes the following topics: Application Software, Computer Terms, Internet and Email, Managing Files, Operating System, and Parts of the Computer.",
     "job_levels": "Entry-Level,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 30
   },
   "https://www.shl.com/products/product-catalog/view/basic-statistics-new/": {
     "name": "Basic Statistics (New)",
@@ -440,7 +440,7 @@
     "description": "Multi-choice test that measures the knowledge of statistical methods, exploratory analysis, basics of probability, standard distributions and statistical testing.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/biochemistry-new/": {
     "name": "Biochemistry (New)",
@@ -453,7 +453,7 @@
     "description": "Multi-choice test that measures the knowledge of various bio-molecules like amino acids, proteins, enzymes, carbohydrates, vitamins and nucleic acids, and concepts of bioenergetics and metabolism.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/": {
     "name": "Biotech Lab Techniques (New)",
@@ -466,7 +466,7 @@
     "description": "Multi-choice test that measures the knowledge of biophysical techniques, bio-processing and separation techniques like chromatography and electrophoresis.",
     "job_levels": "Graduate, Professional Individual Contributor, Mid-Professional,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 5
   },
   "https://www.shl.com/products/product-catalog/view/biztalk-new/": {
     "name": "BizTalk (New)",
@@ -479,7 +479,7 @@
     "description": "Multi-choice test that measures the knowledge of BizTalk architecture, pipelines, adapters, business process techniques and BizTalk administration.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 16
   },
   "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/": {
     "name": "Business Communication (adaptive)",
@@ -492,7 +492,7 @@
     "description": "This is an adaptive test that measures knowledge of communicating in the workplace. It measures the skills necessary to communicate effectively with coworkers at all levels and with external business contacts. Designed for the average business worker, this test includes the following topics: Electronic Communication, Employment Communication, Listening, Meetings, Nonverbal Communication, Verbal Communication, and Written Communication.",
     "job_levels": "Entry-Level, Front Line Manager, Manager, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 24
   },
   "https://www.shl.com/products/product-catalog/view/business-communications/": {
     "name": "Business Communications",
@@ -505,7 +505,7 @@
     "description": "This test measures the candidate's knowledge of communicating in the workplace.  It measures the skills necessary to communicate effectively with coworkers at all levels and with external business contacts. Designed for the average business worker, this test includes the following topics: Electronic Communication, Employment Communication, Listening, Meetings, Nonverbal Communication, Verbal Communication, and Written Communication. This version of the test is not adaptive.",
     "job_levels": "",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 35
   },
   "https://www.shl.com/products/product-catalog/view/c-programming-new/": {
     "name": "C Programming (New)",
@@ -518,7 +518,7 @@
     "description": "Multi-choice test that measures the knowledge of C programming basics, functions, arrays, composed data types, and advanced C concepts like SLF, file handling and dynamic memory.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/": {
     "name": "C# Programming (New)",
@@ -531,7 +531,7 @@
     "description": "Multi-choice test that measures the knowledge of C# programming structure, functions, collections, enumeration, exception handling, OOPs constructs, inheritance, event handling and operator overloading.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 9
   },
   "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/": {
     "name": "C++ Programming (New)",
@@ -544,7 +544,7 @@
     "description": "Multi-choice test that measures the knowledge of programming in the C++ language and the ability to use the C++ standard library to write code.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/": {
     "name": "Cardiology and Diabetes Management (New)",
@@ -557,7 +557,7 @@
     "description": "Multi-choice test that measures the knowledge of how to control and manage cardiovascular diseases and diabetes, and understanding of the diagnostic tests used for them.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 4
   },
   "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/": {
     "name": "Ceramic Engineering (New)",
@@ -570,7 +570,7 @@
     "description": "Multi-choice test that measures the knowledge of classification of ceramic materials, production of ceramics and thermodynamics.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 12
   },
   "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/": {
     "name": "Chemical Engineering (New)",
@@ -583,7 +583,7 @@
     "description": "Multi-choice test that measures the conceptual knowledge of transport phenomena, chemical process engineering and technology, chemical process principles, stoichiometry and process calculations.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 13
   },
   "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/": {
     "name": "Cisco AppDynamics (New)",
@@ -596,7 +596,7 @@
     "description": "Multi-choice test that measures the knowledge of application analytics, performance management, and AppDynamics essentials like controller UI, custom dashboard, reports and monitoring.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 9
   },
   "https://www.shl.com/products/product-catalog/view/civil-engineering-new/": {
     "name": "Civil Engineering (New)",
@@ -609,7 +609,7 @@
     "description": "Multi-choice test that measures the knowledge of structural engineering, transportation engineering, surveying, geotechnical engineering and water resources engineering.",
     "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/cloud-computing-new/": {
     "name": "Cloud Computing (New)",
@@ -622,7 +622,7 @@
     "description": "Multi-choice test that measures the knowledge of cloud computing concepts, cloud service models, virtualization and private clouds.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/cobol-programming-new/": {
     "name": "COBOL Programming (New)",
@@ -635,7 +635,7 @@
     "description": "Multi-choice test that measures the knowledge of COBOL programming fundamentals, programming structure and different types of application processing.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/computer-science-new/": {
     "name": "Computer Science (New)",
@@ -648,7 +648,7 @@
     "description": "Multi-choice test that measures the knowledge of operating system, computer architecture, DBMS and basics of computer networks and communication.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 12
   },
   "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/": {
     "name": "Contact Center Call Simulation (New)",
@@ -661,7 +661,7 @@
     "description": "Simulation based test that measures the ability to handle customer concerns over a call by referring to standard process documents. It also measures typing and documentation skills.",
     "job_levels": "Entry-Level,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 15
   },
   "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/": {
     "name": "Conversational Multichat Simulation",
@@ -674,7 +674,7 @@
     "description": "This is a simulation-based test that measures the ability to handle customer concerns over multiple chats by referring to standard process documents. It provides an open-ended chat environment that assesses the candidate’s skills in a real job setting. Candidates are scored based on whether they resolved the customer’s query, the amount of time taken, and the correct use of vocabulary and grammar in their response.",
     "job_levels": "",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 11
   },
   "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/": {
     "name": "Core Java (Advanced Level) (New)",
@@ -687,7 +687,7 @@
     "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, files and exception handling, and advanced Java concepts like generics, collections, threads, strings and concurrency.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 13
   },
   "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/": {
     "name": "Core Java (Entry Level) (New)",
@@ -700,7 +700,7 @@
     "description": "Multi-choice test that measures the knowledge of basic Java constructs, OOP concepts, file handling, exception handling, threads, generic class and inner class.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 13
   },
   "https://www.shl.com/products/product-catalog/view/count-out-the-money/": {
     "name": "Count Out The Money",
@@ -714,7 +714,7 @@
     "description": "The Count out the Money –US test measures a candidate’s money handling ability. This test is designed for entry-level positions where handling money is required on a regular basis.",
     "job_levels": "Entry-Level,",
     "languages": "English (USA), English (Australia), English (Canada), English International, English (South Africa),",
-    "duration": null
+    "duration": 5
   },
   "https://www.shl.com/products/product-catalog/view/css3-new/": {
     "name": "CSS3 (New)",
@@ -727,7 +727,7 @@
     "description": "Multi-choice test that measures the knowledge of CSS3 and its application in providing style to web documents.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/culinary-skills-new/": {
     "name": "Culinary Skills (New)",
@@ -740,7 +740,7 @@
     "description": "Multi-choice test that measures the knowledge of cooking principles, cooking equipment, meal preparation and presentation, and kitchen safety.",
     "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 7
   },
   "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/": {
     "name": "Customer Service Phone Simulation",
@@ -754,7 +754,7 @@
     "description": "As part of Contact Center Simulations, the Customer Service Phone Simulation is designed for entry-level positions in a contact center environment. Sample tasks for these jobs include: verify the customer or account; take ownership of customer issues; interact with customers to provide information; respond positively to difficult, irate, or confused customers; listen attentively to callers; resolve calls in a timely manner; navigate within multiple information menus to view customer account details and process information; and type information quickly and accurately. Potential job titles that use this solution are: Call Center Representative, Contact Center Representative, Contact Center Agent, Customer Service Agent, Customer Service Representative, and Customer Advocate.\n\"Please note that for Simplified Chinese version the audio is available in both Mandarin and Cantonese.\"",
     "job_levels": "Entry-Level,",
     "languages": "French (Canada), Portuguese (Brazil), Dutch, Italian, Spanish, French, Latin American Spanish, Chinese Simplified, English (Australia), English International, English (USA),",
-    "duration": null
+    "duration": 20
   },
   "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/": {
     "name": "Customer Service Phone Solution",
@@ -769,7 +769,7 @@
     "description": "As part of Contact Center Simulations, the Customer Service Phone Solution includes a contact center simulation and two behavioral tests designed to measure a wide range of skills, competencies, and behavioral tendencies relevant for contact center jobs. The Contact Center Simulation provides an opportunity for candidates to interact with simulated customers in a contact center environment. Designed to measure a candidate’s ability to listen attentively to the customer, take ownership of customer issues, resolve issues, navigate to find information, and enter information accurately, the Contact Center Simulation is intended to measure how a candidate will respond in a variety of customer situations and assess the candidate’s computer skills in a contact center setting. The behavioral tests in this solution are intended to measure the candidate’s learning potential and the tendency to meet goals and work hard, even when faced with obstacles. Collectively, the assessments in this solution measure a wide range of important skills, abilities, and behaviors for entry-level contact center roles.\n\"Please note that for Simplified Chinese version the audio is available in both Mandarin and Cantonese.\"",
     "job_levels": "Entry-Level,",
     "languages": "French (Canada), Italian, French, Dutch, Spanish, Portuguese (Brazil), Chinese Simplified, English (Australia), Latin American Spanish, English (USA), English International,",
-    "duration": null
+    "duration": 30
   },
   "https://www.shl.com/products/product-catalog/view/cyber-risk-new/": {
     "name": "Cyber Risk (New)",
@@ -782,7 +782,7 @@
     "description": "Multi-choice test that measures the knowledge of cyber risk management, system and application security, network security and security management.",
     "job_levels": "Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 9
   },
   "https://www.shl.com/products/product-catalog/view/data-entry-new/": {
     "name": "Data Entry (New)",
@@ -795,7 +795,7 @@
     "description": "Simulated data entry test that measures the ability to accurately transcribe data from pre-filled forms and the ability to verify pre-filled data.",
     "job_levels": "Entry-Level,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 4
   },
   "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/": {
     "name": "Data Entry Alphanumeric Split Screen - US",
@@ -808,7 +808,7 @@
     "description": "The Data Entry Alphanumeric Split Screen - US assessment measures speed and accuracy at typing text and numbers into forms. The information includes business-related text and numbers such as invoice number, address, product number and amount. The test assesses for speed and accuracy.",
     "job_levels": "Professional Individual Contributor, Mid-Professional, Front Line Manager, Entry-Level,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 5
   },
   "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/": {
     "name": "Data Entry Numeric Split Screen - US",
@@ -821,7 +821,7 @@
     "description": "The Data Entry Numeric Split Screen - US assessment measures speed and accuracy at typing numbers into forms. The information candidates must enter includes business-related records including number fields such as customer number, order number, item number and quantity. Candidates may use either the keyboard's numeric keypad or the number keys at the top of the keyboard.",
     "job_levels": "Mid-Professional, Professional Individual Contributor, Entry-Level, Front Line Manager,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 5
   },
   "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/": {
     "name": "Data Entry Ten Key Split Screen",
@@ -834,7 +834,7 @@
     "description": "Data Entry Ten Key Split Screen assessment measures ability to enter numbers using a numeric keypad. The test measures accuracy and speed.",
     "job_levels": "Entry-Level, Front Line Manager, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 3
   },
   "https://www.shl.com/products/product-catalog/view/data-science-new/": {
     "name": "Data Science (New)",
@@ -847,7 +847,7 @@
     "description": "Multi-choice test that measures the conceptual knowledge on how to use machine learning to analyze data, extract information, draw conclusions and make statistically-driven decisions.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 14
   },
   "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/": {
     "name": "Data Warehousing Concepts",
@@ -860,7 +860,7 @@
     "description": "The Data Warehousing Concepts test measures knowledge of Data Warehousing. Designed for experienced users, this test covers the following topics: Big Data and Data Warehouse Appliance, Business Considerations, Data Transformation, Data Warehousing and Data Marts, Design, Dimensional Data Model, On Line Analytical Processing (OLAP), Querying and Reporting/Data Extraction.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 25
   },
   "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/": {
     "name": "Dependability and Safety Instrument (DSI)",
@@ -873,7 +873,7 @@
     "description": "The DSI is a short pre-screening tool for many key entry-level roles. It is designed to identify potential employees who will have good dependability and reliability, and who are less likely to engage in counter-productive work behaviors.\r\n\r\nNote: Turkish [end June 2012] and Romanian [end May 2013] are on limited beta relase",
     "job_levels": "Entry-Level,",
     "languages": "Portuguese (Brazil), Chinese Traditional, Danish, Dutch, Finnish, French, German, Icelandic, Chinese Simplified, English International, Italian, Latin American Spanish, Polish, Swedish, English (USA), Norwegian, Russian,",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/dermatology-new/": {
     "name": "Dermatology (New)",
@@ -886,7 +886,7 @@
     "description": "Multi-choice test that measures the knowledge of various diseases related to skin, their symptoms, the drugs used to treat them, and different terminologies used in the field of dermatology.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 3
   },
   "https://www.shl.com/products/product-catalog/view/desktop-support-new/": {
     "name": "Desktop Support (New)",
@@ -899,7 +899,7 @@
     "description": "Multi-choice test that measures the knowledge of networking, peripheral components, operating systems, troubleshooting and providing technical support.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/digital-advertising-new/": {
     "name": "Digital Advertising (New)",
@@ -912,7 +912,7 @@
     "description": "Multi-choice test that measures the candidate's knowledge about use of AdWords and tools to analyze ad performance on digital media.",
     "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 7
   },
   "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/": {
     "name": "Digital Readiness Development Report - IC",
@@ -951,7 +951,7 @@
     "description": "Multi-choice test that measures the knowledge of Docker container, data management, Docker performance and swarm.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/dojo-new/": {
     "name": "Dojo (New)",
@@ -964,7 +964,7 @@
     "description": "Multi-choice test that measures the knowledge of Dojo architecture, classes and libraries, styles, animation and Dojo queries.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 11
   },
   "https://www.shl.com/products/product-catalog/view/drupal-new/": {
     "name": "Drupal (New)",
@@ -977,7 +977,7 @@
     "description": "Multi-choice test that measures the knowledge of Drupal setup, content management, user interface, module development and security.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 17
   },
   "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/": {
     "name": "DSI v1.1 Interpretation Report",
@@ -1003,7 +1003,7 @@
     "description": "Multi-choice test that measures the knowledge of statistical concepts, exploratory analysis and statistical testing required to analyze economic data.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 11
   },
   "https://www.shl.com/products/product-catalog/view/economics-new/": {
     "name": "Economics (New)",
@@ -1016,7 +1016,7 @@
     "description": "Multi-choice test that measures the conceptual knowledge of microeconomics, macroeconomics and international trade.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 13
   },
   "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/": {
     "name": "Electrical and Electronics Engineering (New)",
@@ -1029,7 +1029,7 @@
     "description": "Multi-choice test that measures the candidate’s knowledge and understanding on fundamentals of electrical engineering, instrumentation and control system and electronics.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 14
   },
   "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/": {
     "name": "Electrical Engineering (New)",
@@ -1042,7 +1042,7 @@
     "description": "Multi-choice test that measures the knowledge of basic electrical engineering, electrical machines, power systems, instrumentation, control systems and basic concepts of electronics.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/": {
     "name": "Electronics & Telecommunications Engineering (New)",
@@ -1055,7 +1055,7 @@
     "description": "Multi-choice test that measures the candidate’s knowledge and understanding on semiconductors and semiconductor devices, analog and digital electronics, communication, electromagnetism and microwave engineering.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 15
   },
   "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/": {
     "name": "Electronics and Embedded Systems Engineering (New)",
@@ -1068,7 +1068,7 @@
     "description": "Multi-choice test that measures the candidate’s knowledge and understanding on concepts like embedded systems and, analog and digital electronics.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 18
   },
   "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/": {
     "name": "Electronics and Semiconductor Engineering (New)",
@@ -1081,7 +1081,7 @@
     "description": "Multi-choice test that measures the knowledge of semiconductors, two terminal and three terminal devices, analog electronics, digital electronics and basics of VLSI.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 7
   },
   "https://www.shl.com/products/product-catalog/view/english-comprehension-new/": {
     "name": "English Comprehension (New)",
@@ -1094,7 +1094,7 @@
     "description": "Multiple-choice test that measures vocabulary, grammar and reading comprehension skills.",
     "job_levels": "Entry-Level,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 0
   },
   "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/": {
     "name": "Enterprise Java Beans (New)",
@@ -1107,7 +1107,7 @@
     "description": "Multi-choice test that measures the knowledge of enterprise Java beans (EJB), types of EJB, transactions and concurrency.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 4
   },
   "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/": {
     "name": "Enterprise Leadership Report 1.0",
@@ -1147,7 +1147,7 @@
     "description": "The Precise Fit Entry Level Cashier Solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds.\nReport Language Availability: English (USA)",
     "job_levels": "Entry-Level,",
     "languages": "English (USA), English International, French (Canada), German, Italian, French, Dutch, Norwegian, Finnish, Swedish, Danish, Arabic, Chinese Simplified, Latin American Spanish,",
-    "duration": null
+    "duration": 19
   },
   "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/": {
     "name": "Entry Level Customer Serv-Retail & Contact Center",
@@ -1161,7 +1161,7 @@
     "description": "The Precise Fit Entry Level Customer Service Solution (Retail/Contact Center) is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organizations products or services. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.\nReport Language Availability: English (USA)",
     "job_levels": "Entry-Level,",
     "languages": "Latin American Spanish, German, French, Chinese Simplified, Swedish, Arabic, English International, English (USA), French (Canada), Italian, Dutch, Norwegian, Finnish, Danish,",
-    "duration": null
+    "duration": 19
   },
   "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/": {
     "name": "Entry Level Customer Service (General) Solution",
@@ -1175,7 +1175,7 @@
     "description": "The Precise Fit Entry Level Customer Service Solution (General) is for a wide range of entry-level positions where employees are expected to interact with customers when carrying out critical tasks of the job. This includes positions that require frequent interactions with customers, or positions where customer service is not central to the role, but is still essential for successful performance on the job. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone to provide information; taking orders; solving product or service issues; and responding positively to difficult or irate customers.\nReport Language Availability: English (USA)",
     "job_levels": "Entry-Level,",
     "languages": "English (USA), English International, French (Canada), Italian, Dutch, Norwegian, Finnish, Danish, Latin American Spanish, German, French, Chinese Simplified, Swedish, Arabic,",
-    "duration": null
+    "duration": 14
   },
   "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/": {
     "name": "Entry Level Hotel Front Desk Solution",
@@ -1189,7 +1189,7 @@
     "description": "The Precise Fit Entry Level Hotel Front Desk Solution is for entry-level customer service positions in the hospitality industry. The solution is appropriate for positions in which the majority of the work is done at the front or guest check-in desk. Sample tasks may include: welcoming guests warmly, issuing keys to guests, and accepting payment.\nReport Language Availability: English (USA)",
     "job_levels": "Entry-Level,",
     "languages": "French (Canada), Italian, French, Chinese Simplified, Swedish, Arabic, English (USA), English International, Latin American Spanish, German, Dutch, Norwegian, Finnish, Danish,",
-    "duration": null
+    "duration": 20
   },
   "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/": {
     "name": "Entry Level Sales Solution",
@@ -1203,7 +1203,7 @@
     "description": "The Precise Fit Entry Level Sales Roles Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.\nReport Language Availability: English (USA)",
     "job_levels": "Entry-Level,",
     "languages": "German, Italian, Chinese Simplified, Finnish, Danish, English (USA), English International, Latin American Spanish, French (Canada), French, Dutch, Norwegian, Swedish, Arabic,",
-    "duration": null
+    "duration": 20
   },
   "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/": {
     "name": "Entry Level Technical Support Solution",
@@ -1217,7 +1217,7 @@
     "description": "The Precise Fit Entry Level Technical Support Solution is for entry-level positions in which employees provide technical assistance to computer users in a contact center environment. Sample tasks for these jobs include, but are not limited to: answer questions or resolve computer problems for clients in person, via telephone, or electronically, provide assistance concerning the use of computer hardware and software, including printing, installation, word processing, electronic mail, and\r\noperating systems.\nReport Language Availability: English (USA)",
     "job_levels": "Entry-Level,",
     "languages": "Latin American Spanish, German, Chinese Simplified, Finnish, Danish, English (USA), English International, French (Canada), Italian, French, Dutch, Norwegian, Swedish, Arabic,",
-    "duration": null
+    "duration": 18
   },
   "https://www.shl.com/products/product-catalog/view/etl-testing-new/": {
     "name": "ETL Testing (New)",
@@ -1230,7 +1230,7 @@
     "description": "Multi-choice test that measures the knowledge of ETL architecture, data warehousing, dimensions, DBMS concepts like data manipulation, constraints, ETL testing and tools required for testing.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 9
   },
   "https://www.shl.com/products/product-catalog/view/executive-scenarios/": {
     "name": "Executive Scenarios",
@@ -1282,7 +1282,7 @@
     "description": "Multi-choice test that measures the knowledge of routing, error handling, security, middleware and performance & reliability in ExpressJS.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 7
   },
   "https://www.shl.com/products/product-catalog/view/filing-names-r1/": {
     "name": "Filing - Names (R1)",
@@ -1295,7 +1295,7 @@
     "description": "This test measures ability to sort names in alphabetical order. Test takers are shown a graphical display of four folder tabs -- three contain alphabetized names and one is blank. The test taker is required to select the name from a list that belongs on the blank tab.",
     "job_levels": "Entry-Level,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 3
   },
   "https://www.shl.com/products/product-catalog/view/filing-numbers/": {
     "name": "Filing - Numbers",
@@ -1308,7 +1308,7 @@
     "description": "This test measures ability to sort items in numerical order. Test takers are shown a graphical display of four folder tabs -- three contain numbers and one is blank, and all are sorted in numeric order. The test taker is required to select the number from a list that belongs on the blank tab.",
     "job_levels": "Entry-Level,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 3
   },
   "https://www.shl.com/products/product-catalog/view/financial-accounting-new/": {
     "name": "Financial Accounting (New)",
@@ -1321,7 +1321,7 @@
     "description": "Multi-choice test that measures the ability to post journal entries, classify items into assets and liabilities, analyze financial statements and calculate financial ratios.",
     "job_levels": "Entry-Level, Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 9
   },
   "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/": {
     "name": "Financial and Banking Services (New)",
@@ -1334,7 +1334,7 @@
     "description": "Multi-choice test that measures the knowledge of investment products, banking products, taxation and principles of Macroeconomics.",
     "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 9
   },
   "https://www.shl.com/products/product-catalog/view/fire-engineering-new/": {
     "name": "Fire Engineering (New)",
@@ -1347,7 +1347,7 @@
     "description": "Multi-choice test that measures the knowledge of fire engineering principles, basic workplace safety and safety management.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/": {
     "name": "Following Instructions v1 - UK (R1)",
@@ -1360,7 +1360,7 @@
     "description": "This test measures a candidate's ability to follow detailed instructions and then select the correct course of action. Candidates are presented with a set of rules and need to choose the appropriate response for various situations based on the rules given.",
     "job_levels": "Entry-Level, Front Line Manager, Mid-Professional, Professional Individual Contributor,",
     "languages": "English International,",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/": {
     "name": "Following Instructions v1 - US (R2)",
@@ -1373,7 +1373,7 @@
     "description": "This test measures a candidate's ability to follow detailed instructions and then select the correct course of action. Test takers are presented with a set of rules and need to choose the appropriate response for various situations based on the rules given.",
     "job_levels": "Entry-Level, Front Line Manager, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/": {
     "name": "Food and Beverage Services (New)",
@@ -1386,7 +1386,7 @@
     "description": "Multi-choice test that measures the knowledge of meal planning, service preparation, types of service equipment, and types of beverages.",
     "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 7
   },
   "https://www.shl.com/products/product-catalog/view/food-science-new/": {
     "name": "Food Science (New)",
@@ -1399,7 +1399,7 @@
     "description": "Multi-choice test that measures the knowledge of food chemistry, nutrition, food microbiology, food engineering and food product technology.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 6
   },
   "https://www.shl.com/products/product-catalog/view/front-office-management-new/": {
     "name": "Front Office Management (New)",
@@ -1412,7 +1412,7 @@
     "description": "Multi-choice test that measures the knowledge of front office operations.",
     "job_levels": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 7
   },
   "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/": {
     "name": "Fundamentals of Chemistry (New)",
@@ -1425,7 +1425,7 @@
     "description": "Multi-choice test that measures the knowledge of physical chemistry, inorganic chemistry and organic chemistry.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/": {
     "name": "Fundamentals of Physics (New)",
@@ -1438,7 +1438,7 @@
     "description": "Multi-choice test that measures the knowledge of classical mechanics, Newton's laws of motion, electromagnetism, EM waves, thermodynamics and modern physics.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/general-diseases-new/": {
     "name": "General Diseases (New)",
@@ -1451,7 +1451,7 @@
     "description": "Multi-choice test that measures the knowledge of common diseases of ear, nose, throat and teeth, their symptoms, drugs used to treat them and various drugs used to relieve pain.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 5
   },
   "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/": {
     "name": "Geoinformatics Engineering (New)",
@@ -1464,7 +1464,7 @@
     "description": "Multi-choice test that measures the knowledge of remote sensing, digital image processing, digital photogrammetry, planning and surveying, geology, GIS and drilling Engineering.",
     "job_levels": "Mid-Professional, Professional Individual Contributor, Supervisor, Entry-Level, Graduate,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/": {
     "name": "Geoscience Engineering (New)",
@@ -1477,7 +1477,7 @@
     "description": "Multi-choice test that measures the knowledge of exploration geology, soil mechanics, rock mechanics, geophysical investigation, geological surveying.",
     "job_levels": "Mid-Professional, Professional Individual Contributor, Graduate,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/git-new/": {
     "name": "GIT (New)",
@@ -1490,7 +1490,7 @@
     "description": "Multi-choice test that measures the knowledge of how to use GIT for version control.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 13
   },
   "https://www.shl.com/products/product-catalog/view/global-skills-assessment/": {
     "name": "Global Skills Assessment",
@@ -1504,7 +1504,7 @@
     "description": "The Global Skills Assessment (GSA) is an assessment used to measure 96 discrete skills/behaviors. These 96 skill scores are directly aligned to the most discrete level of SHL’s Universal Competency Framework (UCF). The GSA measures self-reported behaviors an individual currently engages in. A person’s skills (sets of behavior) are malleable and may change over time. SHL utilizes GSA scores to understand what the participant reports they can do today.",
     "job_levels": "",
     "languages": "Indonesian, Italian, Swedish, Thai, Portuguese (Brazil), French (Canada), Chinese Simplified, Danish, Finnish, French, German, English International, Japanese, Korean, Latin American Spanish, Norwegian, Polish, Romanian, Spanish, Vietnamese, Chinese Traditional, Arabic, English (USA), Dutch, Portuguese, Turkish,",
-    "duration": null
+    "duration": 16
   },
   "https://www.shl.com/products/product-catalog/view/graduate-scenarios/": {
     "name": "Graduate Scenarios",
@@ -1556,7 +1556,7 @@
     "description": "Multi-choice test that measures the knowledge of Hibernate architecture, Hibernate mapping and Hibernate query language(HQL).",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 5
   },
   "https://www.shl.com/products/product-catalog/view/hipaa-security/": {
     "name": "HIPAA (Security)",
@@ -1569,7 +1569,7 @@
     "description": "The HIPAA (Security) test measures knowledge of compliance with the standards required by the Security and Electronic Signature Standards as they apply to HIPAA. Designed for healthcare professionals and concentrating on nontechnical as well as technical aspects of the HIPAA Standards for Security and Electronic Signatures, this test covers the following topics: Computer Mechanisms, Computer Models, General Knowledge, Implementation, Medical Records, Organization, Security Basics, and Setup.",
     "job_levels": "Front Line Manager, Manager,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 15
   },
   "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/": {
     "name": "HiPo Assessment Report 1.0",
@@ -1623,7 +1623,7 @@
     "description": "Multi-choice test that measures the knowledge of housekeeping activities such as cleaning, laundry, room maintenance and routine checks.",
     "job_levels": "Entry-Level, Front Line Manager, Supervisor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 7
   },
   "https://www.shl.com/products/product-catalog/view/htmlcss-new/": {
     "name": "HTML/CSS (New)",
@@ -1636,7 +1636,7 @@
     "description": "Multi-choice test that measures the knowledge of HTML to create a user interface and CSS to stylize it.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 12
   },
   "https://www.shl.com/products/product-catalog/view/html5-new/": {
     "name": "HTML5 (New)",
@@ -1649,7 +1649,7 @@
     "description": "Multi-choice test that measures the knowledge of HTML5 and its application in creating a user interface.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 11
   },
   "https://www.shl.com/products/product-catalog/view/human-resources-new/": {
     "name": "Human Resources (New)",
@@ -1662,7 +1662,7 @@
     "description": "Multi-choice test that measures the candidate on his/her knowledge and understanding of the basic concepts of Human Resources Management like planning, training and development, performance appraisal, compensation management, etc. It also evaluates the candidate’s understanding of organizational behavior in different organizational structures.",
     "job_levels": "Graduate, Manager, Mid-Professional, Professional Individual Contributor, Supervisor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 8
   },
   "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/": {
     "name": "IBM DataStage (New)",
@@ -1675,7 +1675,7 @@
     "description": "Multi-choice test that measures the knowledge on the concepts of Data Warehouse fundamentals, DataStage fundamentals, DataStage stages and, DataStage Designer & Director.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 15
   },
   "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/": {
     "name": "IBM Sterling Order Management System (New)",
@@ -1688,7 +1688,7 @@
     "description": "Multi-choice test that measures the knowledge of the basic concepts of Sterling Order Management System installation, modeling, extensibility, inventory reservations, etc.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 13
   },
   "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/": {
     "name": "Industrial Engineering (New)",
@@ -1701,7 +1701,7 @@
     "description": "Multi-choice test that measures the conceptual knowledge of design, quality control, reliability, management and costing of manufacturing systems.",
     "job_levels": "Graduate, Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 9
   },
   "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/": {
     "name": "Informatica (Architecture) (New)",
@@ -1714,7 +1714,7 @@
     "description": "Multi-choice test that measures the knowledge of data warehousing, server architecture and administration, and real time implementation with Informatica.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 10
   },
   "https://www.shl.com/products/product-catalog/view/informatica-developer-new/": {
     "name": "Informatica (Developer) (New)",
@@ -1727,6 +1727,6 @@
     "description": "Multi-choice test that measures the knowledge of data warehousing, server architecture and administration, and real time implementation with Informatica.",
     "job_levels": "Mid-Professional, Professional Individual Contributor,",
     "languages": "English (USA),",
-    "duration": null
+    "duration": 11
   }
 }
