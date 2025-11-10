@@ -27,6 +27,12 @@ The FastAPI backend is deployed and accessible at:
 The Chainlit frontend interface is deployed at:
 [https://chainlit-shl.onrender.com](https://chainlit-shl.onrender.com)
 
+## Frontend Screenshots
+
+![Frontend Screenshot 1](images/1.png)
+
+![Frontend Screenshot 2](images/2.png)
+
 ---
 
 ## Architecture
