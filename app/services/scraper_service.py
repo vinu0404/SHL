@@ -162,13 +162,29 @@ class ScraperService:
                 if lang_p:
                     details['languages'] = lang_p.text.strip()
             
-            # Extract assessment length and duration
+            # Extract assessment length and duration - FIXED VERSION
             length_section = soup.find('h4', string='Assessment length')
             if length_section:
-                length_p = length_section.find_next('p')
+                # Try to find the parent div and then search within it
+                parent_div = length_section.find_parent('div', class_='product-catalogue-training-calendar__row')
+                if parent_div:
+                    length_p = parent_div.find('p')
+                else:
+                    # Fallback to the original method
+                    length_p = length_section.find_next('p')
+                
                 if length_p:
                     duration_text = length_p.text.strip()
-                    match = re.search(r'(\d+)\s*minutes?', duration_text, re.IGNORECASE)
+                    # Look for patterns like "= 10" or "10 minutes" or "10min"
+                    # First try: "= XX" pattern
+                    match = re.search(r'=\s*(\d+)', duration_text)
+                    if not match:
+                        # Second try: "XX minutes" or "XX mins" pattern
+                        match = re.search(r'(\d+)\s*(?:minutes?|mins?)', duration_text, re.IGNORECASE)
+                    if not match:
+                        # Third try: just any number in the text
+                        match = re.search(r'(\d+)', duration_text)
+                    
                     if match:
                         details['duration'] = int(match.group(1))
             
