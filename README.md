@@ -71,7 +71,7 @@ graph TD
 
 ---
 
-## 🤖 System Components
+## System Components
 
 ### Agents
 
@@ -423,7 +423,7 @@ GET /api/assessments/python-new
 
 ### Admin Endpoints
 
-#### `POST /api/refresh` 🔐
+#### `POST /api/refresh` 
 **Purpose:** Refresh assessment catalog (requires API key)
 
 **Headers:**
@@ -452,7 +452,7 @@ X-API-Key: your-refresh-api-key
 
 ---
 
-#### `GET /api/refresh/status` 🔐
+#### `GET /api/refresh/status` 
 **Purpose:** Get refresh status
 
 **Response:**
@@ -470,131 +470,131 @@ X-API-Key: your-refresh-api-key
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-shl-assessment-recommender/
+shl/
 │
-├── 📄 .env                              # Environment configuration
-├── 📄 .chainlit                         # Chainlit configuration
-├── 📄 chainlit.md                       # Chainlit welcome page
-├── 📄 requirements.txt                 
-├── 📄 README.md                         
-├── 📄 run.py                            # FastAPI runner
-├── 📄 run_chainlit.py                   # Chainlit runner
-├── 📄 predictions.csv                   # for test-set prediction using fastapi
+├── .env                              # Environment configuration
+├── .chainlit                         # Chainlit configuration
+├── chainlit.md                       # Chainlit welcome page
+├── requirements.txt                 
+├── README.md                         
+├── run.py                            # FastAPI runner
+├── run_chainlit.py                   # Chainlit runner
+├── predictions.csv                   # for test-set prediction using fastapi
 │
-├── 📂 app/                              # Main application package
-│   ├── 📄 __init__.py
-│   ├── 📄 main.py                       # FastAPI application entry
-│   ├── 📄 config.py                     # Configuration management
+├── app/                              # Main application package
+│   ├── __init__.py
+│   ├── main.py                       # FastAPI application entry
+│   ├── config.py                     # Configuration management
 │   │
-│   ├── 📂 agents/                       # AI Agents
-│   │   ├── 📄 __init__.py
-│   │   ├── 📄 base_agent.py            # Base agent class
-│   │   ├── 📄 supervisor_agent.py      # Intent classification
-│   │   ├── 📄 jd_extractor_agent.py    # URL extraction & fetching
-│   │   ├── 📄 jd_processor_agent.py    # JD parsing & enhancement
-│   │   ├── 📄 rag_agent.py             # RAG retrieval & ranking
-│   │   └── 📄 general_query_agent.py   # General questions handler
+│   ├── agents/                       # AI Agents
+│   │   ├── __init__.py
+│   │   ├── base_agent.py            # Base agent class
+│   │   ├── supervisor_agent.py      # Intent classification
+│   │   ├── jd_extractor_agent.py    # URL extraction & fetching
+│   │   ├── jd_processor_agent.py    # JD parsing & enhancement
+│   │   ├── rag_agent.py             # RAG retrieval & ranking
+│   │   └── general_query_agent.py   # General questions handler
 │   │
-│   ├── 📂 api/                          # FastAPI routes
-│   │   ├── 📄 __init__.py
-│   │   ├── 📄 dependencies.py          # FastAPI dependencies
-│   │   ├── 📄 middleware.py            # Custom middleware
+│   ├── api/                          # FastAPI routes
+│   │   ├── __init__.py
+│   │   ├── dependencies.py          # FastAPI dependencies
+│   │   ├── middleware.py            # Custom middleware
 │   │   │
-│   │   └── 📂 routes/                   # API endpoints
-│   │       ├── 📄 __init__.py
-│   │       ├── 📄 health.py            # Health check
-│   │       ├── 📄 recommend.py         # Main recommendations
-│   │       ├── 📄 chat.py              # Chat interface
-│   │       ├── 📄 session.py           # Session management
-│   │       ├── 📄 assessments.py       # Assessment search
-│   │       ├── 📄 extract_jd.py        # JD extraction utility
-│   │       ├── 📄 test_types.py        # Test types info
-│   │       └── 📄 refresh.py           # Auto-refresh system
+│   │   └── routes/                   # API endpoints
+│   │       ├── __init__.py
+│   │       ├── health.py            # Health check
+│   │       ├── recommend.py         # Main recommendations
+│   │       ├── chat.py              # Chat interface
+│   │       ├── session.py           # Session management
+│   │       ├── assessments.py       # Assessment search
+│   │       ├── extract_jd.py        # JD extraction utility
+│   │       ├── test_types.py        # Test types info
+│   │       └── refresh.py           # Auto-refresh system
 │   │
-│   ├── 📂 database/                     # Database layer
-│   │   ├── 📄 __init__.py
-│   │   ├── 📄 sqlite_db.py             # SQLite connection
-│   │   ├── 📄 chroma_db.py             # ChromaDB connection
+│   ├── database/                     # Database layer
+│   │   ├── __init__.py
+│   │   ├── sqlite_db.py             # SQLite connection
+│   │   ├── chroma_db.py             # ChromaDB connection
 │   │   │
-│   │   └── 📂 migrations/               # Database migrations
-│   │       └── 📄 init_db.sql
+│   │   └── migrations/               # Database migrations
+│   │       └── init_db.sql
 │   │
-│   ├── 📂 graph/                        # LangGraph workflow
-│   │   ├── 📄 __init__.py
-│   │   ├── 📄 state.py                 # Graph state definitions
-│   │   ├── 📄 nodes.py                 # Graph node implementations
-│   │   ├── 📄 edges.py                 # Conditional edge logic
-│   │   ├── 📄 workflow.py              # Main workflow orchestration
-│   │   └── 📄 utils.py                 # Graph utilities
+│   ├── graph/                        # LangGraph workflow
+│   │   ├── __init__.py
+│   │   ├── state.py                 # Graph state definitions
+│   │   ├── nodes.py                 # Graph node implementations
+│   │   ├── edges.py                 # Conditional edge logic
+│   │   ├── workflow.py              # Main workflow orchestration
+│   │   └── utils.py                 # Graph utilities
 │   │
-│   ├── 📂 models/                       # Data models
-│   │   ├── 📄 __init__.py
-│   │   ├── 📄 schemas.py               # Pydantic API schemas
-│   │   ├── 📄 database_models.py       # SQLAlchemy ORM models
-│   │   └── 📄 assessment.py            # Assessment data models
+│   ├── models/                       # Data models
+│   │   ├── __init__.py
+│   │   ├── schemas.py               # Pydantic API schemas
+│   │   ├── database_models.py       # SQLAlchemy ORM models
+│   │   └── assessment.py            # Assessment data models
 │   │
-│   ├── 📂 prompts/                      # LLM prompts
-│   │   ├── 📄 __init__.py
-│   │   ├── 📄 supervisor_prompts.py    # Supervisor agent prompts
-│   │   ├── 📄 jd_extraction_prompts.py # JD extraction prompts
-│   │   ├── 📄 rag_prompts.py           # RAG & reranking prompts
-│   │   └── 📄 general_query_prompts.py # General query prompts
+│   ├── prompts/                      # LLM prompts
+│   │   ├── __init__.py
+│   │   ├── supervisor_prompts.py    # Supervisor agent prompts
+│   │   ├── jd_extraction_prompts.py # JD extraction prompts
+│   │   ├── rag_prompts.py           # RAG & reranking prompts
+│   │   └── general_query_prompts.py # General query prompts
 │   │
-│   ├── 📂 services/                     # Business logic
-│   │   ├── 📄 __init__.py
-│   │   ├── 📄 llm_service.py           # Gemini LLM integration
-│   │   ├── 📄 embedding_service.py     # Gemini embeddings
-│   │   ├── 📄 vector_store_service.py  # ChromaDB operations
-│   │   ├── 📄 scraper_service.py       # Web scraping
-│   │   ├── 📄 jd_fetcher_service.py    # JD fetching from URLs
-│   │   └── 📄 session_service.py       # Session management
+│   ├── services/                     # Business logic
+│   │   ├── __init__.py
+│   │   ├── llm_service.py           # Gemini LLM integration
+│   │   ├── embedding_service.py     # Gemini embeddings
+│   │   ├── vector_store_service.py  # ChromaDB operations
+│   │   ├── scraper_service.py       # Web scraping
+│   │   ├── jd_fetcher_service.py    # JD fetching from URLs
+│   │   └── session_service.py       # Session management
 │   │
-│   └── 📂 utils/                        # Utility functions
-│       ├── 📄 __init__.py
-│       ├── 📄 logger.py                # Logging configuration
-│       ├── 📄 validators.py            # Input validation
-│       ├── 📄 formatters.py            # Output formatting
-│       └── 📄 helpers.py               # General helpers
+│   └── utils/                        # Utility functions
+│       ├── __init__.py
+│       ├── logger.py                # Logging configuration
+│       ├── validators.py            # Input validation
+│       ├── formatters.py            # Output formatting
+│       └── helpers.py               # General helpers
 │
-├── 📂 chainlit_app/                     # Chainlit frontend
-│   ├── 📄 __init__.py
-│   ├── 📄 app.py                        # Main Chainlit application
+├── chainlit_app/                     # Chainlit frontend
+│   ├── __init__.py
+│   ├── app.py                        # Main Chainlit application
 │   │
-│   ├── 📂 components/                   # UI components
-│   │   ├── 📄 __init__.py
-│   │   ├── 📄 table_renderer.py        # Assessment display
-│   │   └── 📄 progress_tracker.py      # Progress indicators
+│   ├── components/                   # UI components
+│   │   ├── __init__.py
+│   │   ├── table_renderer.py        # Assessment display
+│   │   └── progress_tracker.py      # Progress indicators
 │   │
-│   ├── 📂 handlers/                     # Request handlers
-│   │   ├── 📄 __init__.py
-│   │   ├── 📄 message_handler.py       # Message processing
-│   │   └── 📄 session_handler.py       # Session management
+│   ├── handlers/                     # Request handlers
+│   │   ├── __init__.py
+│   │   ├── message_handler.py       # Message processing
+│   │   └── session_handler.py       # Session management
 │
-├── 📂 data/                             # Data files
-│   ├── 📄 shl_assessments.json         # Scraped assessment data
-│   ├── 📄 labeled_train_set.json       # Training data
-│   └── 📄 test_queries.txt             # Test queries
+├── data/                             # Data files
+│   ├── shl_assessments.json         # Scraped assessment data
+│   ├── labeled_train_set.json       # Training data
+│   └── test_queries.txt             # Test queries
 │
-├── 📂 storage/                          # Database storage
-│   ├── 📂 sqlite/
-│   │   └── 💾 sessions.db              # SQLite database
+├── storage/                          # Database storage
+│   ├── sqlite/
+│   │   └── sessions.db              # SQLite database
 │   │
-│   └── 📂 chroma/                       # ChromaDB storage
-│       └── 📂 assessments/             # Vector collections
+│   └── chroma/                       # ChromaDB storage
+│       └── assessments/             # Vector collections
 │
-├── 📂 scripts/                          # Utility scripts
-│   ├── 📄 __init__.py
-│   ├── 📄 scrape_catalog.py            # Initial scraper
-│   ├── 📄 init_vector_db.py            # DB initialization
-│   └── 📄 evaluate_model.py            # Model evaluation on labeled set
-    └── 📄 testing.py                   # testing on test set  
+├── scripts/                          # Utility scripts
+│   ├── __init__.py
+│   ├── scrape_catalog.py            # Initial scraper
+│   ├── init_vector_db.py            # DB initialization
+│   └── evaluate_model.py            # Model evaluation on labeled set
+    └── testing.py                   # testing on test set  
     
 │
-└── 📂 logs/                             # Application logs
-    ├── 📄 app.log                       # Main application log
+└── logs/                             # Application logs
+    ├── app.log                       # Main application log
 ```
 
 ### Key Directories Explained
@@ -611,7 +611,7 @@ shl-assessment-recommender/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -660,7 +660,7 @@ python run_chainlit.py
 
 ---
 
-## 💡 Usage Examples
+##  Usage Examples
 
 ### Example 1: Job Description Query
 
@@ -743,7 +743,7 @@ REFRESH_API_KEY=your-secure-key          # Protect refresh endpoint
 
 ---
 
-## 📊 Evaluation
+## Evaluation
 
 The system is evaluated using **Mean Recall@10**:
 
@@ -758,7 +758,7 @@ python scripts/evaluate_model.py
 
 ---
 
-## 🔄 Auto-Refresh System
+## Auto-Refresh System
 
 The system automatically refreshes assessment data every 7 days:
 
