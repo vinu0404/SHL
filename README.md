@@ -2,6 +2,33 @@
 
 An intelligent AI-powered system for recommending SHL assessments based on job descriptions and natural language queries using LangGraph, Google Gemini, and RAG architecture.
 
+## Deployment
+
+### FastAPI Backend
+The FastAPI backend is deployed and accessible at:
+[https://shl-fastapi-17fu.onrender.com](https://shl-fastapi-17fu.onrender.com)
+
+### Available Endpoints
+
+| Feature | Endpoint | Description |
+|--------|----------|-------------|
+| Health Check | `/api/health` | Checks if the API is running and healthy. |
+| Recommendations | `/api/recommend` | Generates SHL assessment recommendations based on input. |
+| Chat | `/api/chat` | Chat-based interaction with the model. |
+| Session Management | `/api/session/{session_id}` | Retrieve or manage a specific session. |
+| Assessment Search | `/api/assessments/search` | Search assessments by keyword or filters. |
+| Test Types | `/api/test-types` | Retrieve the full list of SHL test types. |
+| Job Description Extraction | `/api/extract-jd` | Extract structured details from job descriptions. |
+| Refresh Data | `/api/refresh` | Refreshes vector embeddings and cached data. |
+
+---
+
+### Chainlit Frontend 
+The Chainlit frontend interface is deployed at:
+[https://chainlit-shl.onrender.com](https://chainlit-shl.onrender.com)
+
+---
+
 ## Architecture
 
 ### LangGraph Workflow
